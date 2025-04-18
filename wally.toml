@@ -1,5 +1,5 @@
 [package]
-name = "RbxLoader"
+name = "1ionut/rbxloader"
 description = "Roblox Module loader"
 version = "0.1.0"
 license = "MIT"
